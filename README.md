@@ -49,8 +49,6 @@ public/
 │
 ├── 404.html
 └── index.html
-
-
 ---
 
 ## ⚙️ How to Run Locally
