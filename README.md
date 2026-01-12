@@ -69,14 +69,6 @@ A proxy is used to avoid CORS issues during Firebase hosting.
 
 ---
 
-## 📌 Future Improvements
-
-- Trailer popup using YouTube API
-- Carousel for multiple upcoming movies
-- MCU phase-wise timeline view
-- Progressive Web App (PWA) support
-
----
 
 ## 👨‍💻 Author
 
