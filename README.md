@@ -32,25 +32,6 @@ This project is designed with a Marvel-inspired dark theme and optimized for bot
 
 ---
 
-## 📁 Project Structure
-
-public/
-│
-├── assets/
-│ ├── font/
-│ │ └── Marvel-Regular.ttf
-│ └── titlelogo.jpg
-│
-├── css/
-│ └── style.css
-│
-├── js/
-│ └── index.js
-│
-├── 404.html
-└── index.html
----
-
 ## ⚙️ How to Run Locally
 
 1. Clone the repository
